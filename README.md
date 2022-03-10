@@ -1,6 +1,4 @@
 ## Привет! Я - Анна, frontend разработчик!
-📫 Как связаться: anna.sycheva.job@gmail.com
-
 ## ☎ Контакты:
 <a name="telegram" href="https://t.me/idrolal"><img width="45px" src="https://img.icons8.com/color/344/telegram-app--v1.png"/></a>
 <a name="watsapp" href="https://wa.me/79819674929"> <img width="45px" src="https://img.icons8.com/color/344/whatsapp--v1.png"/></a>

@@ -1,0 +1,20 @@
+{
+  "name": "idrolal",
+  "version": "1.0.0",
+  "description": "📫 Как связаться: anna.sycheva.job@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idrolal/idrolal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idrolal/idrolal/issues"
+  },
+  "homepage": "https://github.com/idrolal/idrolal#readme"
+}
